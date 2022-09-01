@@ -1,0 +1,10 @@
+.header {
+    height: 95px;
+    display: flex;
+  }
+  div {
+    border: 1px solid red;
+  } 
+  .header-link {
+    margin: auto;
+  }
